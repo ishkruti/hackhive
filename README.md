@@ -1,0 +1,2 @@
+# hackhive
+automated attendance manager
